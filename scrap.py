@@ -8,7 +8,7 @@ from googleapiclient.discovery import build
 def get_comments(video_id):
     # ^Build the service object
     youtube = build('youtube', 'v3',
-                    developerKey='AIzaSyBYLkwuFeKfNgOmF9lj9xICJ2Qqrx666ps')
+                    developerKey='')
 
     # ^List to store the comments, usernames, and replies
     comments_data = []
