@@ -21,7 +21,7 @@ Please adhere to this project's `code of conduct`.
 
 ## Deployment
 
-To deploy this project install Google API client Library
+To deploy this project install `Google API client Library`
 
 ```bash
 pip install google-api-python-client google-auth google-auth-oauthlib google-auth-httplib2
